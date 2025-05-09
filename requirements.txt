@@ -1,0 +1,4 @@
+fastapi
+redis[asyncio]
+pydantic
+uvicorn
